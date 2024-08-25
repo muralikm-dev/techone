@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.techone.numtowords</groupId>
 	<artifactId>numtowordsconvertor</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1/version>
 	<name>numtowordsconvertor</name>
 	<description>Number to Words Convertor</description>
 	<url/>
