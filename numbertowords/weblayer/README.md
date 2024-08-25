@@ -16,7 +16,7 @@ A simple React application that converts numerical values to their word equivale
 * Node.js and NPM
 
 ## Installation
-* Git clone
+* Git clone https://github.com/muralikm-dev/techone.git
 * npm install
 
 ## Running the Application
